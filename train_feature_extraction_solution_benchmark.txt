@@ -1,0 +1,53 @@
+MacBook Pro late 2013
+Processor 2.4 GHz Intel Core i5
+RAM 8 GB 1600 MHz DDR3
+
+Epoch 1
+Time: 12717.885 seconds
+Validation Loss = 0.51949551635
+Validation Accuracy = 0.864208980597
+
+Epoch 2
+Time: 2708.323 seconds
+Validation Loss = 0.338176487335
+Validation Accuracy = 0.914908416411
+
+Epoch 3
+Time: 2569.187 seconds
+Validation Loss = 0.256772673907
+Validation Accuracy = 0.936393848079
+
+Epoch 4
+Time: 40306.741 seconds
+Validation Loss = 0.227130790243
+Validation Accuracy = 0.940180848593
+
+Epoch 5
+Time: 4039.575 seconds
+Validation Loss = 0.181989847026
+Validation Accuracy = 0.956642708115
+
+Epoch 6
+Time: 8257.307 seconds
+Validation Loss = 0.169961190134
+Validation Accuracy = 0.95671999384
+
+Epoch 7
+Time: 2607.912 seconds
+Validation Loss = 0.163892154373
+Validation Accuracy = 0.956642708092
+
+Epoch 8
+Time: 2160.562 seconds
+Validation Loss = 0.143638425495
+Validation Accuracy = 0.961666280261
+
+Epoch 9
+Time: 2399.384 seconds
+Validation Loss = 0.133431293811
+Validation Accuracy = 0.96498956645
+
+Epoch 10
+Time: 2287.890 seconds
+Validation Loss = 0.125372100733
+Validation Accuracy = 0.967617281111
